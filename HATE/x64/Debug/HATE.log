@@ -1,0 +1,42 @@
+﻿  Lexer.cpp
+  Main.cpp
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(279,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00D2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00DB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00CF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00CE", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00D5", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00C4", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00D3", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00C5", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00D0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00C0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00CB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(947,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1335,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1352,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1372,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\Main.cpp(501,97): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\Main.cpp(522,98): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  TID.cpp
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(279,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00D2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00DB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00CF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00CE", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00D5", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00C4", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00D3", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00C5", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00D0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00C0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1391,33): warning C4566: символ, представленный универсальным именем символа "\u00CB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(947,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1335,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1352,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(1372,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+C:\Users\maxve\source\repos\HATE\HATE\Lexer.cpp(266): warning C4715: NextLex: значение возвращается не при всех путях выполнения
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(294): warning C4715: TID::get_name_f: значение возвращается не при всех путях выполнения
+C:\Users\maxve\source\repos\HATE\HATE\TID.cpp(307): warning C4715: TID::get_type_f: значение возвращается не при всех путях выполнения
+  HATE.vcxproj -> C:\Users\maxve\source\repos\HATE\x64\Debug\HATE.exe

@@ -1,0 +1,4 @@
+program TEST {
+	string a = str(1 + 10);
+	cinout << 10.0/3;
+}
